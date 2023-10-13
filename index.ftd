@@ -41,10 +41,10 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
+-- profile.wrapper: Sahil Soitkar
+avatar: $assets.files.images.img1.jpg
+city: Nagpur
+github-url: https://www.github.com/Sahilsoitkar
 linkedin-url: https://www.linkedin.com/
 instagram-url: https://www.instagram.com/
 twitter-url: https://twitter.com/
@@ -106,10 +106,10 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
+-- profile.wrapper: Sahil Soitkar
+avatar: $assets.files.images.img1.jpg
+city: Nagpur
+github-url: https://www.github.com/Sahilsoitkar
 linkedin-url: https://www.linkedin.com/
 instagram-url: https://www.instagram.com/
 twitter-url: https://twitter.com/
