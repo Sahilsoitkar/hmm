@@ -1,7 +1,7 @@
 -- import: fastn
 
 -- fastn.package: itz-Sahilsoitkar.github.hmm
-favicon: /--itz-Sahilsoitkar.github.io/hmm/favicon.ico
+favicon: /-/itz-Sahilsoitkar.github.io/hmm/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
